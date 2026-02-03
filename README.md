@@ -1,5 +1,5 @@
 ## Application UI Demo
-![AI Job Application Copilot](Screenshot.png)
+![AI Job Application Copilot](App_UI.png)
 
 # AI Job Application Copilot (v1)
 
