@@ -1,3 +1,6 @@
+## Demo
+![AI Job Application Copilot](assets/app-screenshot.png)
+
 # AI Job Application Copilot (v1)
 
 A Streamlit app that lets you paste a CV and job description, save each run to SQLite, and attach an AI-style analysis (currently mocked). Built step-by-step to mirror real data product development: UI → data storage → analysis.
@@ -26,9 +29,6 @@ A Streamlit app that lets you paste a CV and job description, save each run to S
 - Add outcomes tracking: Applied / Interview / Rejected
 - Add charts: fit_score vs outcomes, recurring gaps, skill trends
 - Swap mock AI with real API when quota/billing enabled
-
-## Demo
-![App screenshot](screenshot.png)
 
 ## What I learned
 - How to structure a small data product end-to-end
