@@ -1,5 +1,5 @@
 ## Demo
-![AI Job Application Copilot](assets/Screenshot.png)
+![AI Job Application Copilot](Screenshot.png)
 
 # AI Job Application Copilot (v1)
 
