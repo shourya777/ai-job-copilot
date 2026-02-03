@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+
+# Environment / secrets
+.env
+
+# SQLite DB (optional)
+runs.db
+
+# OS
+.DS_Store
