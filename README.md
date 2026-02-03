@@ -26,3 +26,13 @@ A Streamlit app that lets you paste a CV and job description, save each run to S
 - Add outcomes tracking: Applied / Interview / Rejected
 - Add charts: fit_score vs outcomes, recurring gaps, skill trends
 - Swap mock AI with real API when quota/billing enabled
+
+## Demo
+![App screenshot](screenshot.png)
+
+## What I learned
+- How to structure a small data product end-to-end
+- Using SQLite for lightweight persistence
+- Designing AI features safely with mock outputs first
+- Managing real Git merges and repository hygiene
+
